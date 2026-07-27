@@ -4,7 +4,7 @@ A public working example showing how Applied Wisdom for Nonprofits can move from
 
 ## Published page
 
-https://mcdeeai.github.io/awnp-listening-check/
+https://applied-wisdom-for-nonprofits.github.io/awnp-listening-check/
 
 ## Current prototype limitation
 
